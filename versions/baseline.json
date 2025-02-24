@@ -1,0 +1,8 @@
+{     
+  "default": {
+    "pybind11-core": {
+      "baseline": "2.13.6",
+      "port-version": 0
+    }
+  }
+}
